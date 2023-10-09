@@ -1,0 +1,16 @@
+#card
+{
+    padding: px;
+    margin:10px ;
+    border-radius: 20px;
+    box-shadow: 2px  2px 3px 3px rgb(196, 195, 191);
+}
+#card:hover img{
+    transform: scale(0.98);
+    /* transform: rotateY(360deg); */
+     transition: transform 3s;
+}
+#img
+{
+    border-radius: 20px;
+}
